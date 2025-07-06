@@ -26,5 +26,5 @@ A lightweight banking system that allows users to manage their accounts securely
 - **Deposit & Withdrawal Operations**  
 - **View Account Details**  
 - **Close Account Securely**  
-- **Graphical Insights** – Number of accounts created over the years  
+- **Graphical Insights** 
 - **Safe Transaction Confirmation Prompts**
